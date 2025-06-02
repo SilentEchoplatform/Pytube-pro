@@ -21,3 +21,5 @@ Requirements
 License
 
 Licensed under the MIT License.
+
+If you enjoy what I do, consider supporting me on Ko-fi! Every little bit means the world! https://ko-fi.com/silentecho_platfom
